@@ -1,0 +1,1 @@
+This is a Landing Page template created for the Landing Page project of the odin project
